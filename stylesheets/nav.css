@@ -1,0 +1,10 @@
+.navigation-wrapper > .right {
+    display: flex;
+    justify-content: right;
+    padding-right: 50px;
+}
+
+.navigation-wrapper > .right > .navlinks-wrapper > .navlinks {
+    margin-top: -47px;
+}
+
